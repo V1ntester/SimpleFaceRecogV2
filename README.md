@@ -2,7 +2,7 @@
 
 ### Its experimental project, I think that I will not support him
 
-#### To work we need to install:
+#### For work we need to install:
 * Scipy
 * DLib
 * Numpy
@@ -15,8 +15,8 @@ Photos are loaded from the faceBase directory. To add face you need rename file 
     * [dlib_face_recognition_resnet_model_v1.dat](./dlib/dlib_face_recognition_resnet_model_v1.dat)
     * [shape_predictor_68_face_landmarks.dat](./dlib/shape_predictor_68_face_landmarks.dat)
 * [faceBase](./faceBase)
-    * [Random People.jpg](./faceBase/Random People.jpg)
-* [faces.py](./ffaces.py)
+    * [RandomPeople.jpg](./faceBase/RandomPeople.jpg)
+* [faces.py](./faces.py)
 * [framePrepare.py](./framePrepare.py)
 * [main.py](./main.py)
 * [videoCapture.py](./videoCapture.py)
