@@ -2,7 +2,7 @@
 
 ### Its experimental project, I think that I will not support him
 
-#### To work we need to install:
+#### For work we need to install:
 * Scipy
 * DLib
 * Numpy
